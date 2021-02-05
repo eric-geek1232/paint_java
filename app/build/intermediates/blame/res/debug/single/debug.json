@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_radio_button_checked_24_white.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\ic_baseline_radio_button_checked_24_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_radio_button_unchecked_24_black.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\ic_baseline_radio_button_unchecked_24_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main_paint.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\menu\\menu_main_paint.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_custom_check_color_white.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\custom_check_color_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_show_color_picker.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\anim\\anim_show_color_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_radio_button_unchecked_24.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\ic_baseline_radio_button_unchecked_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background_round_top_card.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\background_round_top_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_custom_check_color_yellow.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\custom_check_color_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_paint_palette.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable\\ic_paint_palette.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_custom_check_color_green.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\custom_check_color_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_eraser.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable\\ic_eraser.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_custom_check_color_red.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\custom_check_color_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_custom_check_color_black.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\custom_check_color_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_delete_forever_24.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable\\ic_baseline_delete_forever_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_radio_button_unchecked_24_white.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\ic_baseline_radio_button_unchecked_24_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_radio_button_checked_24_black.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\ic_baseline_radio_button_checked_24_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bottom_sheet_tools.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\layout\\fragment_bottom_sheet_tools.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_custom_check_color_blue.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\custom_check_color_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_custom_check_color_coffe.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\custom_check_color_coffe.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_clean.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable\\ic_clean.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_custom_check_color_pink.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable-v24\\custom_check_color_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_paint_brush.xml.flat",
+        "source": "C:\\Users\\alons\\AndroidStudioProjects\\Paint\\app\\src\\main\\res\\drawable\\ic_paint_brush.xml"
+    }
+]

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/design_bottom_sheet_color_picker"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    app:behavior_hideable="true"
+    app:behavior_peekHeight="0dp"
+    app:layout_behavior="@string/bottom_sheet_behavior">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/background_round_top_card"
+        android:elevation="-1dp"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="70dp"
+                android:layout_height="6dp"
+                android:layout_margin="20dp"
+                app:cardCornerRadius="10dp"
+                app:cardBackgroundColor="@color/colorIconsDark"
+                app:cardElevation="0dp"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="Tamaño"
+                android:textColor="@color/colorGray"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <SeekBar
+                android:id="@+id/seekBar_setSizeTool"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="15dp" />
+
+            <TextView
+                android:id="@+id/colors_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="Colores"
+                android:textColor="@color/colorGray"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+            <com.divyanshu.colorseekbar.ColorSeekBar
+                android:id="@+id/color_seek_bar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="Colores Basicos"
+                android:textColor="@color/colorGray"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <HorizontalScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:overScrollMode="never"
+                android:scrollbarThumbHorizontal="@android:color/transparent">
+
+                <RadioGroup
+                    android:id="@+id/RadioGroup_colors"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <RadioButton
+                        android:id="@+id/white_radioBtn"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:button="@drawable/custom_check_color_white" />
+
+                    <RadioButton
+                        android:id="@+id/yellow_radioBtn"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_margin="10dp"
+                        android:button="@drawable/custom_check_color_yellow" />
+
+                    <RadioButton
+                        android:id="@+id/black_radioBtn"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_margin="10dp"
+                        android:button="@drawable/custom_check_color_black" />
+
+                    <RadioButton
+                        android:id="@+id/red_radioBtn"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_margin="10dp"
+                        android:button="@drawable/custom_check_color_red" />
+
+                    <RadioButton
+                        android:id="@+id/green_radioBtn"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_margin="10dp"
+                        android:button="@drawable/custom_check_color_green" />
+
+                    <RadioButton
+                        android:id="@+id/blue_radioBtn"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_margin="10dp"
+                        android:button="@drawable/custom_check_color_blue" />
+
+                    <RadioButton
+                        android:id="@+id/pink_radioBtn"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_margin="10dp"
+                        android:button="@drawable/custom_check_color_pink" />
+
+                    <RadioButton
+                        android:id="@+id/coffee_radioBtn"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_margin="10dp"
+                        android:button="@drawable/custom_check_color_coffe" />
+                </RadioGroup>
+            </HorizontalScrollView>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>
